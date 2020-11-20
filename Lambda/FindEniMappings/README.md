@@ -13,3 +13,6 @@ Arguments:
 
 Usage:
 ```./findEniAssociations --eni eni-0123456789abcef01 --region us-east-1```
+
+References:
+- https://aws.amazon.com/es/premiumsupport/knowledge-center/ec2-find-security-group-resources/
